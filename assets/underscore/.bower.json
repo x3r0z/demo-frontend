@@ -1,0 +1,29 @@
+{
+  "name": "underscore",
+  "version": "1.8.3",
+  "main": "underscore.js",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "ignore": [
+    "docs",
+    "test",
+    "*.yml",
+    "CNAME",
+    "index.html",
+    "favicon.ico",
+    "CONTRIBUTING.md",
+    ".*",
+    "component.json",
+    "package.json",
+    "karma.*"
+  ],
+  "_source": "nexus+http://192.168.0.201:8081/repository/bower/underscore",
+  "_target": "~1.8.0",
+  "_release": "1.8.3",
+  "_originalSource": "underscore"
+}

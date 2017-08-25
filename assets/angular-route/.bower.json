@@ -1,0 +1,14 @@
+{
+  "name": "angular-route",
+  "version": "v1.5.9",
+  "license": "MIT",
+  "main": "./angular-route.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.5.9"
+  },
+  "_source": "nexus+http://192.168.0.201:8081/repository/bower/angular-route",
+  "_target": "~1.5.x",
+  "_release": "v1.5.9",
+  "_originalSource": "angular-route"
+}
